@@ -6,7 +6,7 @@
 </div>
 <br><br>
 
-## costumo usar
+## Costumo usar:
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="50em"  alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="50em"  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,13 +18,18 @@
 
  <br><br>
 
-  ## Um pouco sobre mim
+  ## Um pouco sobre mim:
 <div>
   <p>Tenho 24 anos e sou estudante do 2º semestre de Ciência da Computação. Sou apaixonado por tecnologia e estou sempre buscando novos aprendizados. Já tive experiência acadêmica com desenvolvimento frontend,
  backend (JS/JSON), manipulação de banco de dados com PostgreSQL e algoritmos em Python. Atualmente, estou estudando C++, linguagem pela qual desenvolvi grande interesse. Meu objetivo é continuar aprimorando minhas habilidades e,
  futuramente, realizar um intercâmbio para expandir minha visão profissional.</p>
 </div>
 <br><br>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/TheKiess/TheKiess/blob/output/github-snake-dark.svg)
+</div>
 
 ## Minhas redes sociais:
 <div align="center">
