@@ -1,8 +1,8 @@
 ## Olá, sou Frank Kiess!!
 <div align="center" dir="auto" style="background-color: white;">
   <a href="https://github.com/TheKiess"></a>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheKiess&&show_icons=true&theme=dark" style="max-width: 100%;"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheKiess&layout=compact&theme=dark" style="max-width: 100%;"/>
+  <img height="100em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheKiess&&show_icons=true&theme=dark" style="max-width: 100%;"/>
+  <img height="100em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheKiess&layout=compact&theme=dark" style="max-width: 100%;"/>
 </div>
 <br><br>
 
