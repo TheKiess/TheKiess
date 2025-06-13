@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif dev animado" />
 </div>
 
-# 👨‍💻 Frank Kiess — Desenvolvedor em formação apaixonado por tecnologia
+# 👨‍💻 Frank Kiess — Futuro desenvolvedor fullstack
 
 <div align="center">
   <a href="https://github.com/TheKiess">
