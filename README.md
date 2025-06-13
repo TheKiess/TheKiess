@@ -68,7 +68,6 @@
   Projeto completo com interface Tkinter e banco SQLite. Gerencia serviços, estoque, pagamentos parciais e produtos.  
   [🔗 Ver repositório](https://github.com/TheKiess)
 
-*Adicione aqui outros projetos com links e descrições, se desejar.*
 
 ---
 
