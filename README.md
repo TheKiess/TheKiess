@@ -19,8 +19,8 @@
 ---
 
 ## 📌 Navegue por aqui:
-- [🚀 Ferramentas que uso](#ferramentas-e-linguagens-de-programação-que-costumo-usar)
-- [📚 Já utilizei academicamente](#ferramentas-que-já-utilizei-academicamente)
+- [🚀 Ferramentas que uso](#🚀-ferramentas-e-linguagens-de-programação-que-costumo-usar)
+- [📚 Já utilizei academicamente](#🧪-ferramentas-que-já-utilizei-academicamente)
 - [🧠 Sobre mim](#🧠-sobre-mim)
 - [🛠 Projetos em destaque](#🛠-projetos-em-destaque)
 - [📈 GitHub Atividade](#📈-atividade-github)
@@ -31,12 +31,15 @@
 ## 🚀 Ferramentas e linguagens de programação que costumo usar:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="45" alt="Ubuntu Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 </div>
 
 ---
@@ -44,19 +47,20 @@
 ## 🧪 Ferramentas que já utilizei academicamente:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="r" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
 </div>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação (2º semestre)
+- 🎓 Estudante de Ciência da Computação (3º semestre)
 - 👨‍💻 Experiência acadêmica em **frontend** e **backend** com **JavaScript** e **React**
 - 🐘 Banco de dados com **PostgreSQL**
 - 🐍 Desenvolvimento de algoritmos em **Python**
+- 🐧 Trabalhando com **PHP**, **Linux (Ubuntu)** e **imagens Docker**
 - 💡 Atualmente estudando **C++** e explorando **UI/UX com Figma**
 - 🌍 Interessado em programas de **intercâmbio** e crescimento profissional
 
@@ -67,7 +71,6 @@
 - ✨ **Sistema de Gestão para Ateliê de Costura**  
   Projeto completo com interface Tkinter e banco SQLite. Gerencia serviços, estoque, pagamentos parciais e produtos.  
   [🔗 Ver repositório](https://github.com/TheKiess)
-
 
 ---
 
