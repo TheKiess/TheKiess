@@ -16,15 +16,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thekiess.thekiess&left_color=black&left_text=VISITANTES" />
 </div>
 
----
-
-## 📌 Navegue por aqui:
-- [🚀 Ferramentas que uso](#🚀-ferramentas-e-linguagens-de-programação-que-costumo-usar)
-- [📚 Já utilizei academicamente](#🧪-ferramentas-que-já-utilizei-academicamente)
-- [🧠 Sobre mim](#🧠-sobre-mim)
-- [🛠 Projetos em destaque](#🛠-projetos-em-destaque)
-- [📈 GitHub Atividade](#📈-atividade-github)
-- [📫 Contato](#📫-contato)
 
 ---
 
