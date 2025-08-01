@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif dev animado" />
 </div>
 
-# 👨‍💻 Frank Kiess — Futuro desenvolvedor fullstack
+# 👨‍💻 Frank Kiess — Fullstack Developer & Computer Science Student
 
 <div align="center">
   <a href="https://github.com/TheKiess">
@@ -19,53 +19,60 @@
 
 ---
 
-## 🚀 Ferramentas e linguagens de programação que costumo usar:
+## 🚀 Tools and Programming Languages I Use Regularly:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="45" alt="Ubuntu Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="GIT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="45" alt="Gitlab" />
+
+          
+          
 </div>
 
 ---
 
-## 🧪 Ferramentas que já utilizei academicamente:
+## 🧪 Tools I’ve Used in Academia:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="Figma" />
+          
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-- 🎓 Estudante de Ciência da Computação (3º semestre)
-- 👨‍💻 Experiência acadêmica em **frontend** e **backend** com **JavaScript** e **React**
-- 🐘 Banco de dados com **PostgreSQL**
-- 🐍 Desenvolvimento de algoritmos em **Python**
-- 🐧 Trabalhando com **PHP**, **Linux (Ubuntu)** e **imagens Docker**
-- 💡 Atualmente estudando **C++** e explorando **UI/UX com Figma**
-- 🌍 Interessado em programas de **intercâmbio** e crescimento profissional
-
----
-
-## 🛠 Projetos em destaque
-
-- ✨ **Sistema de Gestão para Ateliê de Costura**  
-  Projeto completo com interface Tkinter e banco SQLite. Gerencia serviços, estoque, pagamentos parciais e produtos.  
-  [🔗 Ver repositório](https://github.com/TheKiess)
+- 🎓 Computer Science student (3rd semester)
+- 👨‍💻 Academic experience with **frontend** and **backend** using **JavaScript** and **React**
+- 🐘 Database management with **PostgreSQL**
+- 🐍 Algorithm development with **Python**
+- 🐧 Working with **PHP**, **Linux (Ubuntu)**, and **Docker images**
+- 💡 Currently studying **C++** and exploring **UI/UX with Figma**
+- 🌍 Interested in **exchange programs** and professional growth
 
 ---
 
-## 📈 Atividade GitHub
+## 🛠 Highlight Project
+
+- ✨ **Tailor Shop Management System**  
+  Complete system with Tkinter interface and SQLite database. Manages services, inventory, partial payments, and products.  
+  [🔗 View repository](https://github.com/TheKiess)
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thekiess&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
@@ -77,7 +84,7 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
   <a href="https://www.instagram.com/thekiesss" target="_blank">
