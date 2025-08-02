@@ -1,8 +1,8 @@
+# 👨‍💻 Frank Kiess — Fullstack Developer & Computer Science Student
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif dev animado" />
 </div>
-
-# 👨‍💻 Frank Kiess — Fullstack Developer & Computer Science Student
 
 <div align="center">
   <a href="https://github.com/TheKiess">
