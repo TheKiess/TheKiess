@@ -64,13 +64,25 @@
 
 ---
 
-## 🛠 Highlight Project
+## 🛠 Highlight Projects
 
-- ✨ **Tailor Shop Management System**  
-  Complete system with Tkinter interface and SQLite database. Manages services, inventory, partial payments, and products.  
-  [🔗 View repository](https://github.com/TheKiess)
+### ✨ [Tailor Shop Management System](https://github.com/TheKiess)
+A complete management system developed with **Python (Tkinter + SQLite)** to support a real tailor shop.  
+
+**Features:**
+- 🧵 Manage **services** (active & completed)
+- 💰 Register and track **partial payments**
+- 📦 Handle **inventory and stock movements**
+- 🛒 Manage **purchases and sales**
 
 ---
+
+### 📘 [C++ Studies](https://github.com/TheKiess/Studies)
+Repository dedicated to improving my programming logic and problem-solving skills with **C++**.  
+It contains:
+- ✅ Solutions to **Beecrowd** exercises  
+- 📒 Notes and experiments with **algorithms**  
+- 🧩 Daily practice to strengthen fundamentals
 
 ## 📈 GitHub Activity
 
