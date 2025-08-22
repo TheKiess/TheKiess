@@ -66,7 +66,7 @@
 
 ## 🛠 Highlight Projects
 
-### ✨ [Tailor Shop Management System](https://github.com/TheKiess)
+### ✨ [Tailor Shop Management System](https://github.com/TheKiess) -> Manutenção...
 A complete management system developed with **Python (Tkinter + SQLite)** to support a real tailor shop.  
 
 **Features:**
