@@ -26,20 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="45" alt="PhpStorm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="45" alt="Ubuntu Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Windows11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="GIT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"  height="45" alt="JQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="45" alt="Gitlab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="45" alt="Windows11" />
-          
-
-          
-          
 </div>
 
 ---
@@ -51,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="Figma" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />    
 </div>
 
 ---
@@ -77,13 +73,17 @@
 ## 🛠 Highlight Projects
 
 ### ✨ [Tailor Shop Management System](https://github.com/TheKiess)
-A complete management system developed with **Python (Tkinter + SQLite)** to support a real tailor shop.
+A complete management system for a real tailor shop, developed in Java, using JavaFX, PostgreSQL, and MVC architecture.
 
-**Key Features:**
-- 🧵 Manage **services** (active & completed)
-- 💰 Register and track **partial payments**
-- 📦 Control **inventory & stock movements**
-- 🛒 Manage **purchases and sales**
+Key Features:
+
+- 🧵 Service management (active & completed)
+- 💰 Partial payment tracking with detailed history
+- 📦 Inventory control with stock movement records
+- 🛒 Product, purchase and sales management
+- 🗂️ Clean MVC architecture with DAOs, Services, and Controllers
+- 🖥️ Modern UI built with JavaFX
+- 🗄️ Reliable persistence layer using PostgreSQL + JDBC (with transactions)
 
 ---
 
