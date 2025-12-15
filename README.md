@@ -94,6 +94,26 @@ Repository dedicated to improving my programming logic and problem-solving skill
 - 📒 Notes and experiments with **algorithms**  
 - 🧩 Daily practice to strengthen fundamentals
 
+---
+
+### ⚙️ [Assembly – Computer Architecture Studies](https://github.com/TheKiess/Assembly)
+
+Academic projects developed during Computer Architecture and Organization classes, focusing on low-level programming and understanding how software interacts with hardware.
+
+**What’s covered:**
+
+- 🧠 CPU fundamentals (registers, memory, instructions)
+
+- 🔢 Data manipulation at low level
+
+- 🧮 Arithmetic and logical operations
+
+- 📚 Practical exercises using Assembly language
+
+- 🎓 Projects aligned with university coursework
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
