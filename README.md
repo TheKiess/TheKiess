@@ -54,19 +54,14 @@
 
 🧠 About Me
 
-- 🎓 Computer Science student (3rd semester) passionate about technology and continuous learning.
+- 🎓 Computer Science student (3rd semester), passionate about technology and continuous learning.
+- 💼 Full Stack Developer at <b>Atua by nstech</b>, working on scalable web solutions using PHP, JavaScript (modern libraries), and PostgreSQL.
+- 🐧 Development environment based on Ubuntu via WSL2 (Windows Subsystem for Linux), leveraging Docker for containerized deployments and efficient workflows.
+- 🧩 Strong experience in frontend and backend development, database management, and system integration.
+- 🐍 Solid background in Python for algorithms, automation, and backend logic.
+- 💡 Currently studying C++ and exploring UI/UX design with Figma to enhance usability, performance, and overall product experience.
+- 🌍 Enthusiastic about international exchange opportunities and continuous professional growth.
 
-- 💼 Full Stack Developer at <b>Atua by nstech</b>, working on scalable web solutions with PHP, JavaScript (and modern libraries), and PostgreSQL.
-
-- 🐧 Daily development environment based on Ubuntu Linux, using Docker for containerized deployments and efficient workflows.
-
-- 🧩 Experienced in frontend and backend development, database management, and system integration.
-
-- 🐍 Background in Python for algorithms and automation.
-
-- 💡 Currently studying C++ and exploring UI/UX design with Figma to enhance product usability and visual experience.
-
-- 🌍 Enthusiastic about international exchange opportunities and professional growth.
 
 ---
 
