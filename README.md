@@ -57,7 +57,7 @@
 
 🧠 About Me
 
-- 🎓 Computer Science student (3rd semester), passionate about technology and continuous learning.
+- 🎓 Computer Science student (4rd semester), passionate about technology and continuous learning.
 - 💼 Full Stack Developer at <b>Atua by nstech</b>, working on scalable web solutions using PHP, JavaScript (modern libraries), and PostgreSQL.
 - 🐧 Development environment based on Ubuntu via WSL2 (Windows Subsystem for Linux), leveraging Docker for containerized deployments and efficient workflows.
 - 🧩 Strong experience in frontend and backend development, database management, and system integration.
