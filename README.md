@@ -66,12 +66,14 @@ developing production-ready web applications.
 - Strong interest in backend architecture, database design,
 API integration and system modeling.
 
-- Experience developing complete systems from scratch 
+- Experience developing complete systems from scratch
 including financial tracking logic, stock control workflows,
 relational modeling and business rule implementation.
 
-- Background in Python (algorithms, automation, desktop systems),
-and currently deepening knowledge in C++ and software architecture.
+- Strong background in Java, applying Object-Oriented Programming,
+clean architecture principles and structured backend development.
+
+- Currently deepening knowledge in C++ and software architecture.
 
 - Always optimizing for clean code, performance and user experience.
 
@@ -79,7 +81,7 @@ and currently deepening knowledge in C++ and software architecture.
 
 ## 🛠 Highlight Projects
 
-### ✨ [Tailor Shop Management System](https://github.com/TheKiess)
+### [Tailor Shop Management System](https://github.com/TheKiess)
 A complete management system for a real tailor shop, developed in Java, using JavaFX, PostgreSQL, and MVC architecture.
 
 Key Features:
@@ -94,7 +96,7 @@ Key Features:
 
 ---
 
-### 📘 [C++ Studies](https://github.com/TheKiess/Studies)
+### [C++ Studies](https://github.com/TheKiess/Studies)
 Repository dedicated to improving my programming logic and problem-solving skills with **C++**.  
 **It contains:**
 - ✅ Solutions to **Beecrowd** exercises  
@@ -103,7 +105,7 @@ Repository dedicated to improving my programming logic and problem-solving skill
 
 ---
 
-### ⚙️ [Assembly – Computer Architecture Studies](https://github.com/TheKiess/Assembly)
+### [Assembly – Computer Architecture Studies](https://github.com/TheKiess/Assembly)
 
 Academic projects developed during Computer Architecture and Organization classes, focusing on low-level programming and understanding how software interacts with hardware.
 
