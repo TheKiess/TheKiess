@@ -55,7 +55,7 @@
 
 ---
 
-🧠 About Me
+## 🧠 About Me
 
 - Computer Science student and Full Stack Developer focused on building
 well-structured, scalable, and maintainable systems.
