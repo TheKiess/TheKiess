@@ -140,14 +140,17 @@ Academic projects developed during Computer Architecture and Organization classe
 
 ## 📫 Contact
 
-<div align="center">
-  <a href="https://www.instagram.com/thekiesss" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p align="center">
   <a href="mailto:frank_kiess.junior@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/frank-kiess-94071912a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-Frank%20Kiess-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/thekiesss" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@thekiesss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
