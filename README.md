@@ -89,22 +89,22 @@ A complete management system for a real tailor shop, developed in Java, using Ja
 
 Key Features:
 
-- 🧵 Service management (active & completed)
-- 💰 Partial payment tracking with detailed history
-- 📦 Inventory control with stock movement records
-- 🛒 Product, purchase and sales management
-- 🗂️ Clean MVC architecture with DAOs, Services, and Controllers
-- 🖥️ Modern UI built with JavaFX
-- 🗄️ Reliable persistence layer using PostgreSQL + JDBC (with transactions)
+- Service management (active & completed)
+- Partial payment tracking with detailed history
+- Inventory control with stock movement records
+- Product, purchase and sales management
+- Clean MVC architecture with DAOs, Services, and Controllers
+- Modern UI built with JavaFX
+- Reliable persistence layer using PostgreSQL + JDBC (with transactions)
 
 ---
 
-### [C++ Studies](https://github.com/TheKiess/Studies)
+### [C++ Studies](https://github.com/TheKiess/Studies) / [Data Structure 2](https://github.com/TheKiess/estrutura_dados2)
 Repository dedicated to improving my programming logic and problem-solving skills with **C++**.  
 **It contains:**
-- ✅ Solutions to **Beecrowd** exercises  
-- 📒 Notes and experiments with **algorithms**  
-- 🧩 Daily practice to strengthen fundamentals
+- Solutions to **Beecrowd** exercises  
+- Notes and experiments with **algorithms**  
+- Daily practice to strengthen fundamentals
 
 ---
 
@@ -114,19 +114,19 @@ Academic projects developed during Computer Architecture and Organization classe
 
 **What’s covered:**
 
-- 🧠 CPU fundamentals (registers, memory, instructions)
+- CPU fundamentals (registers, memory, instructions)
 
-- 🔢 Data manipulation at low level
+- Data manipulation at low level
 
-- 🧮 Arithmetic and logical operations
+- Arithmetic and logical operations
 
-- 📚 Practical exercises using Assembly language
+- Practical exercises using Assembly language
 
-- 🎓 Projects aligned with university coursework
+- Projects aligned with university coursework
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thekiess&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
@@ -138,7 +138,7 @@ Academic projects developed during Computer Architecture and Organization classe
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:frank_kiess.junior@hotmail.com">
