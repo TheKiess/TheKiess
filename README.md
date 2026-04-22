@@ -147,7 +147,7 @@ Academic projects developed during Computer Architecture and Organization classe
   <a href="https://www.linkedin.com/in/frank-kiess-94071912a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Frank%20Kiess-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/seuusuario" target="_blank">
+  <a href="https://github.com/thekiess" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/thekiesss" target="_blank">
