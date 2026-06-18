@@ -84,14 +84,6 @@ Covers: sorting algorithms, linked lists, trees, graphs, and competitive program
 
 ---
 
-### ⚙️ [Assembly — Computer Architecture](https://github.com/TheKiess/Assembly)
-
-> Low-level programming projects from Computer Architecture and Organization classes.
-
-Covers CPU fundamentals (registers, memory, instructions), data manipulation at the hardware level, and arithmetic/logical operations in Assembly.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
