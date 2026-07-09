@@ -16,7 +16,7 @@ Computer Science student and Full Stack Developer based in Brazil, focused on bu
 
 I work daily with **PHP, JavaScript, PostgreSQL and Docker**, developing real-world web applications that handle financial logic, stock control, relational data modeling and business rule implementation.
 
-My background in **Java + OOP** helped me build a solid understanding of clean architecture — and I'm currently deepening that with **C++** and low-level programming.
+My background in **Java + OOP** helped me build a solid understanding of clean architecture and I'm currently deepening that with **C++** and low-level programming.
 
 I care about code that is readable, maintainable, and efficient — not just code that works.
 
