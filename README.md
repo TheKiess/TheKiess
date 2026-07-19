@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/avatar.svg" width="150" alt="Frank Kiess" />
-
 # Frank Kiess
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Computer+Science+Student;Backend+%26+Architecture+Focused)](https://git.io/typing-svg)
