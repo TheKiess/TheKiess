@@ -76,7 +76,7 @@ Built with **MVC architecture**, DAOs, Services and Controllers. Features includ
 
 ### 📚 [C++ Studies & Data Structures](https://github.com/TheKiess/Studies)
 
-> Daily practice repository — algorithms, Beecrowd exercises and data structure experiments.
+> Daily practice repository algorithms, Beecrowd exercises and data structure experiments.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
@@ -87,12 +87,8 @@ Covers: sorting algorithms, linked lists, trees, graphs, and competitive program
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheKiess&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKiess&layout=compact&theme=dark&hide_border=true" />
-</div>
+  <img height="180em" src="https://github-readme-stats-alpha-dun.vercel.app/api?username=theKiess&show_icons=true&count_private=true&rank_icon=github&theme=gotham&bg_color=0d1117&title_color=04a1a3&icon_color=04a1a3&border_color=04a1a3&border_radius=15"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thekiess&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="220" />
 </div>
 
 <div align="center">
