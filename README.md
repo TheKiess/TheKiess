@@ -1,103 +1,156 @@
 <div align="center">
 
+<img src="assets/avatar.svg" width="150" alt="Frank Kiess" />
+
 # Frank Kiess
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Computer+Science+Student;Backend+%26+Architecture+Enthusiast;Always+building+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Computer+Science+Student;Backend+%26+Architecture+Focused)](https://git.io/typing-svg)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=thekiess.thekiess&left_color=black&left_text=Visitors" />
+<sub><img src="https://visitor-badge.laobi.icu/badge?page_id=thekiess.thekiess&left_color=black&right_color=grey&left_text=Visitors" alt="Visitor badge" /></sub>
 
 </div>
 
+<br>
+
 ---
 
-## 🧠 About Me
+## About
 
 Computer Science student and Full Stack Developer based in Brazil, focused on building well-structured, production-ready systems.
 
-I work daily with **PHP, JavaScript, PostgreSQL and Docker**, developing real-world web applications that handle financial logic, stock control, relational data modeling and business rule implementation.
+I work daily with **Java, PHP, JavaScript, PostgreSQL and Docker**, developing real-world applications that handle financial logic, stock control, relational data modeling and business rules from the ground up.
 
-My background in **Java + OOP** helped me build a solid understanding of clean architecture and I'm currently deepening that with **C++** and low-level programming.
+My background in **Java + OOP** shaped how I think about clean architecture, and I'm currently deepening that with **C++** and low-level programming.
 
-I care about code that is readable, maintainable, and efficient — not just code that works.
+Code should be readable, maintainable and secure by default, not just functional.
+
+Currently building **MariPontinhos**, a JavaFX + PostgreSQL desktop management system for a real sewing atelier, covering authentication, service orders, inventory and scheduling end to end.
 
 ---
 
-## 🔧 Daily Stack
+## Tech Stack
 
 <div align="center">
 
-| Backend | Frontend | Database | DevOps & Tools |
-|--------|----------|----------|----------------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![JavaFX](https://img.shields.io/badge/JavaFX-1a1a1a?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-1a1a1a?style=flat-square&logo=jquery&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-1a1a1a?style=flat-square&logo=oracle&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat-square&logo=gitlab&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-1a1a1a?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Operating Systems**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a1a?style=flat-square&logo=archlinux&logoColor=white)
+![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a1a?style=flat-square&logo=ubuntu&logoColor=white)
+
+**Exploring**
+
+![Assembly](https://img.shields.io/badge/Assembly-1a1a1a?style=flat-square&logo=assemblyscript&logoColor=white)
 
 </div>
 
-**IDEs & Workflow:** PhpStorm · VS Code · Postman · Notion  
-**OS:** Arch Linux · Ubuntu
+**Editors:** PhpStorm · IntelliJ IDEA · VS Code · Postman
+**Shell:** fish (KDE Plasma, Garuda Linux)
 
 ---
 
-## 🧪 Academic & Exploration
+## Highlighted Projects
+
+**[MariPontinhos: Atelier Management System](https://github.com/TheKiess/gerenciamento-alfaiataria)**
+
+> A complete management system for a real tailor shop, built from the ground up.
+
+Stack: Java · JavaFX · Maven · PostgreSQL · jBCrypt
+
+- Session-based authentication with hashed credentials and role permissions
+- Service orders with status history and partial payment tracking
+- Inventory control with linked stock movement records
+- Scheduling module with a custom calendar view and event types
+- Layered architecture (DAOs, Services and Controllers) with JDBC transactions
+
+**[C++ Studies & Data Structures](https://github.com/TheKiess/Studies)**
+
+> Daily practice repository for algorithms, Beecrowd exercises and data structure experiments.
+
+Stack: C++
+
+Covers sorting algorithms, linked lists, trees, graphs and competitive programming problems.
+
+---
+
+## Status
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=FFFFFF&title_color=1A1A1A&text_color=57606A&icon_color=6E7681&border_color=D0D7DE" />
+  <img src="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&border_color=30363D" alt="GitHub stats" width="100%" />
+</picture>
+
+</td>
+<td width="45%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1A1A&text_color=57606A&border_color=D0D7DE" />
+  <img src="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" alt="Top languages" width="100%" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=57606A&fire=1A1A1A&currStreakNum=1A1A1A&sideNums=57606A&currStreakLabel=6E7681&sideLabels=6E7681&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="GitHub streak stats" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=8B949E&title_color=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=FFFFFF&color=57606A&line=6E7681&point=1A1A1A&area_color=8B949E&title_color=1A1A1A" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=8B949E&title_color=FFFFFF" alt="Contribution activity graph" width="100%" />
+</picture>
+
+---
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+</picture>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)](https://github.com/thekiess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge)](https://www.linkedin.com/in/frank-kiess-94071912a/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge)](mailto:frank_kiess.junior@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-4d4d4d?style=for-the-badge)](https://www.instagram.com/thekiesss)
 
 </div>
-
----
-
-## 📌 Highlight Projects
-
-### 🧵 [Tailor Shop Management System](https://github.com/TheKiess/gerenciamento-alfaiataria)
-
-> Complete management system for a real tailor shop — from the ground up.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-Built with **MVC architecture**, DAOs, Services and Controllers. Features include:
-- Service management (active & completed orders)
-- Partial payment tracking with full history
-- Inventory control with stock movement records
-- Product, purchase and sales management
-- Modern UI with JavaFX + reliable persistence via JDBC (with transactions)
-
----
-
-### 📚 [C++ Studies & Data Structures](https://github.com/TheKiess/Studies)
-
-> Daily practice repository algorithms, Beecrowd exercises and data structure experiments.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-Covers: sorting algorithms, linked lists, trees, graphs, and competitive programming problems.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-alpha-dun.vercel.app/api?username=theKiess&show_icons=true&count_private=true&rank_icon=github&theme=gotham&bg_color=0d1117&title_color=04a1a3&icon_color=04a1a3&border_color=04a1a3&border_radius=15"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github.com/TheKiess/TheKiess/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-</br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank%20Kiess-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-kiess-94071912a/)
-[![GitHub](https://img.shields.io/badge/GitHub-TheKiess-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thekiess)
-[![Email](https://img.shields.io/badge/Email-frank__kiess.junior%40hotmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank_kiess.junior@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@thekiesss-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thekiesss)
