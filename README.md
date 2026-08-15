@@ -14,7 +14,7 @@
 
 ## About
 
-Computer Science student and Full Stack Developer based in Brazil, focused on building well-structured, production-ready systems.
+Computer Science student and Full Stack Developer (From Atua by Nstech) based in Brazil, focused on building well-structured, production-ready systems.
 
 I work daily with **Java, PHP, JavaScript, PostgreSQL and Docker**, developing real-world applications that handle financial logic, stock control, relational data modeling and business rules from the ground up.
 
