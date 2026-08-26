@@ -89,7 +89,7 @@ Stack: Java · JavaFX · Maven · PostgreSQL · jBCrypt
 
 **[C++ Studies & Data Structures](https://github.com/TheKiess/Studies)**
 
-> Daily practice repository for algorithms, Beecrowd exercises and data structure experiments.
+> Daily practice repository for algorithms.
 
 Stack: C++
 
