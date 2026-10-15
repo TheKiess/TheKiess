@@ -18,12 +18,23 @@ Computer Science student and Junior Full Stack Developer at Atua by Nstech, base
 
 I work daily with **Java, PHP, JavaScript, PostgreSQL and Docker**, developing real world applications that handle financial logic, stock control, relational data modeling and business rules from the ground up. My background in **Java and Object Oriented Programming** shaped how I think about clean, secure architecture, and I am currently expanding that foundation with modern full stack tools like **NestJS, Prisma, Next.js and Flutter**, alongside low level programming in **C++**.
 
+I work in agile teams using **Scrum and Kanban** practices, with short iterations, continuous delivery and constant feedback.
+
 What keeps me interested in this field is turning a real problem into a system that actually works: correct data modeling, secure authentication and code that the next developer can read without needing to ask me what it does.
 
--  Building **MariPontinhos**, a JavaFX + PostgreSQL desktop system for a real tailor shop, covering authentication, service orders, inventory and scheduling end to end
--  Building **Comanda e Pedidos**, a full stack restaurant ordering system (NestJS, Prisma, Next.js, Flutter), as the capstone project for my Web and Mobile Development course
--  Practicing algorithms and data structures daily in C++, including competitive programming on beecrowd
--  Value clean code above almost everything else: validated inputs, early returns, single responsibility and no unnecessary complexity
+- Building **MariPontinhos**, a JavaFX + PostgreSQL desktop system for a real tailor shop, covering authentication, service orders, inventory and scheduling end to end
+- Building **Comanda e Pedidos**, a full stack restaurant ordering system (NestJS, Prisma, Next.js, Flutter), as the capstone project for my Web and Mobile Development course
+- Practicing algorithms and data structures daily in C++, including competitive programming on beecrowd
+- Value clean code above almost everything else: validated inputs, early returns, single responsibility and no unnecessary complexity
+
+---
+
+## Ways of Working
+
+- **Agile mindset:** small deliveries, working software over heavy documentation, adapting to change
+- **Scrum:** sprints, planning, daily meetings, review and retrospective
+- **Kanban:** visual board (To Do, In Progress, Review, Done) with limited work in progress
+- **Git workflow:** feature branches, small commits and merge requests with code review
 
 ---
 
@@ -66,6 +77,12 @@ What keeps me interested in this field is turning a real problem into a system t
 ![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat-square&logo=gitlab&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-1a1a1a?style=flat-square&logo=apachemaven&logoColor=white)
 
+**Methodologies**
+
+![Agile](https://img.shields.io/badge/Agile-1a1a1a?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-1a1a1a?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-1a1a1a?style=flat-square)
+
 **Operating Systems**
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a1a?style=flat-square&logo=archlinux&logoColor=white)
@@ -74,11 +91,11 @@ What keeps me interested in this field is turning a real problem into a system t
 
 **Exploring**
 
-![Assembly](https://img.shields.io/badge/Assembly-1a1a1a?style=flat-square&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-1a1a1a?style=flat-square)
 
 </div>
 
-**Editors:** PhpStorm · IntelliJ IDEA · VS Code · Postman
+**Editors:** PhpStorm · IntelliJ IDEA · VS Code · Postman  
 **Shell:** fish (KDE Plasma, Garuda Linux)
 
 ---
@@ -107,6 +124,7 @@ Stack: NestJS · Prisma · PostgreSQL · React (Next.js) · Flutter
 - Mobile app for waitstaff to open tabs, add items and track what is already prepared
 - Web dashboard for the kitchen preparation queue, menu management and reporting
 - Encrypted user credentials and role based access between staff and customers
+- Tasks organized on a Kanban board, with the work split into small deliveries between two developers
 
 **[C++ Studies & Data Structures](https://github.com/TheKiess/Studies)**
 
