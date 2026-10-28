@@ -1,10 +1,24 @@
 <div align="center">
 
-# Frank Kiess
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Frank%20Kiess&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=F3F4F6&height=180&section=header&text=Frank%20Kiess&fontSize=42&fontColor=1F2937&fontAlignY=35&animation=fadeIn"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Frank%20Kiess&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"
+    width="100%"
+    alt="Frank Kiess"
+  />
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Backend+%26+Architecture+Focused;Clean+Code+%26+Security+Minded)](https://git.io/typing-svg)
 
-<sub><img src="https://visitor-badge.laobi.icu/badge?page_id=thekiess.thekiess&left_color=black&right_color=grey&left_text=Visitors" alt="Visitor badge" /></sub>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thekiess.thekiess&left_color=black&right_color=grey&left_text=Visitors" alt="Visitor badge" />
 
 </div>
 
@@ -102,6 +116,8 @@ What keeps me interested in this field is turning a real problem into a system t
 
 ## Highlighted Projects
 
+<br>
+
 **[MariPontinhos: Atelier Management System](https://github.com/TheKiess/gerenciamento-alfaiataria)**
 
 > A complete management system for a real tailor shop, built from the ground up.
@@ -143,18 +159,38 @@ Covers sorting algorithms, linked lists, trees, graphs and problems solved on be
 <td width="55%" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=FFFFFF&title_color=1A1A1A&text_color=57606A&icon_color=6E7681&border_color=D0D7DE" />
-  <img src="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&border_color=30363D" alt="GitHub stats" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&border_color=30363D"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=FFFFFF&title_color=1A1A1A&text_color=57606A&icon_color=6E7681&border_color=D0D7DE"
+  />
+  <img
+    src="https://github-readme-stats-alpha-dun.vercel.app/api?username=TheKiess&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&border_color=30363D"
+    alt="GitHub stats"
+    width="100%"
+  />
 </picture>
 
 </td>
 <td width="45%" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1A1A&text_color=57606A&border_color=D0D7DE" />
-  <img src="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" alt="Top languages" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1A1A&text_color=57606A&border_color=D0D7DE"
+  />
+  <img
+    src="https://github-readme-stats-alpha-dun.vercel.app/api/top-langs/?username=TheKiess&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D"
+    alt="Top languages"
+    width="100%"
+  />
 </picture>
 
 </td>
@@ -162,15 +198,35 @@ Covers sorting algorithms, linked lists, trees, graphs and problems solved on be
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=57606A&fire=1A1A1A&currStreakNum=1A1A1A&sideNums=57606A&currStreakLabel=6E7681&sideLabels=6E7681&dates=8B949E" />
-  <img src="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="GitHub streak stats" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=57606A&fire=1A1A1A&currStreakNum=1A1A1A&sideNums=57606A&currStreakLabel=6E7681&sideLabels=6E7681&dates=8B949E"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=TheKiess&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681"
+    alt="GitHub streak stats"
+    width="100%"
+  />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=8B949E&title_color=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=FFFFFF&color=57606A&line=6E7681&point=1A1A1A&area_color=8B949E&title_color=1A1A1A" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=8B949E&title_color=FFFFFF" alt="Contribution activity graph" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=8B949E&title_color=FFFFFF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=FFFFFF&color=57606A&line=6E7681&point=1A1A1A&area_color=8B949E&title_color=1A1A1A"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheKiess&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=8B949E&title_color=FFFFFF"
+    alt="Contribution activity graph"
+    width="100%"
+  />
 </picture>
 
 ---
@@ -178,9 +234,19 @@ Covers sorting algorithms, linked lists, trees, graphs and problems solved on be
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/TheKiess/TheKiess/output/github-snake-dark.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
 </picture>
 
 <br><br>
