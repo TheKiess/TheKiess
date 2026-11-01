@@ -37,7 +37,6 @@ I work in agile teams using **Scrum and Kanban** practices, with short iteration
 What keeps me interested in this field is turning a real problem into a system that actually works: correct data modeling, secure authentication and code that the next developer can read without needing to ask me what it does.
 
 - Building **MariPontinhos**, a JavaFX + PostgreSQL desktop system for a real tailor shop, covering authentication, service orders, inventory and scheduling end to end
-- Building **Comanda e Pedidos**, a full stack restaurant ordering system (NestJS, Prisma, Next.js, Flutter), as the capstone project for my Web and Mobile Development course
 - Practicing algorithms and data structures daily in C++, including competitive programming on beecrowd
 - Value clean code above almost everything else: validated inputs, early returns, single responsibility and no unnecessary complexity
 
