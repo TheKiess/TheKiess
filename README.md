@@ -129,18 +129,6 @@ Stack: Java · JavaFX · Maven · PostgreSQL · jBCrypt
 - Scheduling module with a custom calendar view and event types
 - Layered architecture (DAOs, Services and Controllers) with JDBC transactions
 
-**Comanda e Pedidos: Restaurant Order Management System** *(in development)*
-
-> Capstone project for the Web and Mobile Development course, built with a fellow Computer Science student. A concurrent ordering system where waitstaff and kitchen work from the same live data at the same time.
-
-Stack: NestJS · Prisma · PostgreSQL · React (Next.js) · Flutter
-
-- REST API built with NestJS and Prisma, modeling tables, orders, menu items and closings
-- Mobile app for waitstaff to open tabs, add items and track what is already prepared
-- Web dashboard for the kitchen preparation queue, menu management and reporting
-- Encrypted user credentials and role based access between staff and customers
-- Tasks organized on a Kanban board, with the work split into small deliveries between two developers
-
 **[C++ Studies & Data Structures](https://github.com/TheKiess/Studies)**
 
 > Daily practice repository for algorithms and competitive programming.
