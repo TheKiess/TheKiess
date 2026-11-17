@@ -238,7 +238,6 @@ Covers sorting algorithms, linked lists, trees, graphs and problems solved on be
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)](https://github.com/thekiess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge)](https://www.linkedin.com/in/frank-kiess-94071912a/)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge)](mailto:frank_kiess.junior@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-4d4d4d?style=for-the-badge)](https://www.instagram.com/thekiesss)
